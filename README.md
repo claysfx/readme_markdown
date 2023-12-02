@@ -10,21 +10,21 @@ básico de markdown para readme de repositórios.
 ### nível 3 - subtítulos ###
 
 ```bash
-# nível 1 #
+# nível 1 - título principal #
 
-ou símbolo "=" abaixo
+ou símbolo "=" abaixo:
 
 nível 1
 =
 ```
 ```bash
-## nível 2 ##
+## nível 2 - títulos secundário ##
 
-ou símbolo "-" abaixo
+ou símbolo "-" abaixo:
 
 nível 2
 -
 ```
 ```bash
-### nível 3 ###
+### nível 3 - subtítulos ###
 ```

@@ -1,7 +1,7 @@
 markdown para readme<a name="titulo"></a>
 =
 básico de markdown para readme de repositórios.
-- - - -
+- - -
 
 # [I) tamanho de fontes: hierarquia de títulos]() #
 
@@ -9,7 +9,7 @@ básico de markdown para readme de repositórios.
 ## nível 2 - títulos secundários ##
 ### nível 3 - subtítulos ###
 
-```bash
+```
 # nível 1 - título principal #
 
 ou símbolo "=" abaixo:
@@ -17,7 +17,7 @@ ou símbolo "=" abaixo:
 nível 1
 =
 ```
-```bash
+```
 ## nível 2 - títulos secundário ##
 
 ou símbolo "-" abaixo:
@@ -25,6 +25,26 @@ ou símbolo "-" abaixo:
 nível 2
 -
 ```
-```bash
+```
 ### nível 3 - subtítulos ###
 ```
+
+- - -
+
+# [II) estilos de escrita]() #
+
+*itálico*, **negrito**, ***itálico-negrito*** ou ~~cortado~~
+
+```
+*itálico* ou _itálico_
+
+**negrito** ou __negrito__
+
+***itálico-negrito*** ou ___itálico-negrito___
+
+~~cortado~~
+```
+
+- - -
+
+# [III) links (em breve)]() #

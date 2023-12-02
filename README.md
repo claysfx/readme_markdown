@@ -1,9 +1,9 @@
-markdown para readme<a name="titulo"></a>
+[markdown para readme](https://github.com/claysfx/readme_markdown/blob/main/README.md?plain=1)<a name="titulo"></a>
 =
 básico de markdown para readme de repositórios.
 - - -
 
-# [I) tamanho de fontes: hierarquia de títulos]() #
+## [I) tamanho de fontes: hierarquia de títulos]() ##
 
 # nível 1 - título principal #
 ## nível 2 - títulos secundários ##
@@ -31,7 +31,7 @@ nível 2
 
 - - -
 
-# [II) estilos de escrita]() #
+## [II) estilos de escrita]() ##
 
 *itálico*, **negrito**, ***itálico-negrito*** ou ~~cortado~~
 

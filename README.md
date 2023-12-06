@@ -47,4 +47,53 @@ nível 2
 
 - - -
 
-## [III) links (em breve)]() ##
+## [III) links]() ##
+
+link com nome: [link exemplo](http://example.com)
+
+link puro: <http://example.com>
+
+```
+link com nome: [link exemplo](http://example.com)
+link puro: <http://example.com>
+```
+
+- - -
+
+## [IV) tabelas]() ##
+
+- padrão: alinhamento central
+
+título 1 | título 2 | título 3
+-------- | -------- | --------
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+
+```
+título 1 | título 2 | título 3
+-------- | -------- | --------
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+```
+
+- alinhamentos específicos
+
+alinhamento na esquerda | alinhamento no centro | alinhamento na direita
+| :--- | :---: | ---: |
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+
+```
+alinhamento na esquerda | alinhamento no centro | alinhamento na direita
+| :--- | :---: | ---: |
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+conteúdo | conteúdo | conteúdo
+```
+
+- - -
+
+## [V) marcações de tópico (em breve)]() ##

@@ -6,25 +6,29 @@ básico de markdown para readme de repositórios.
 ## [I) tamanho de fontes: hierarquia de títulos]() ##
 
 # nível 1 - título principal #
-## nível 2 - títulos secundários ##
-### nível 3 - subtítulos ###
 
 ```
 # nível 1 - título principal #
-
+```
 ou símbolo "=" abaixo:
-
+```
 nível 1
 =
 ```
+
+## nível 2 - títulos secundários ##
+
 ```
 ## nível 2 - títulos secundário ##
-
+```
 ou símbolo "-" abaixo:
-
+```
 nível 2
 -
 ```
+
+### nível 3 - subtítulos ###
+
 ```
 ### nível 3 - subtítulos ###
 ```
@@ -96,4 +100,32 @@ conteúdo | conteúdo | conteúdo
 
 - - -
 
-## [V) marcações de tópico (em breve)]() ##
+## [V) tópicos]() ##
+
+- tópico 1
+  - subtópico 1.1
+- tópico 2
+  - subtópico 2.1
+  - subtópico 2.2
+    - divisão do subtópico 2.2.1
+    - divisão do subtópico 2.2.2
+
+```
+- tópico 1
+  - subtópico 1.1
+- tópico 2
+  - subtópico 2.1
+  - subtópico 2.2
+    - divisão do subtópico 2.2.1
+    - divisão do subtópico 2.2.2
+```
+ou
+```
+* tópico 1
+  * subtópico 1.1
+* tópico 2
+  * subtópico 2.1
+  * subtópico 2.2
+    * divisão do subtópico 2.2.1
+    * divisão do subtópico 2.2.2
+```
